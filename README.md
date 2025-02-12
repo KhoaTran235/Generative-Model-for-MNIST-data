@@ -1,0 +1,1 @@
+# Generative-Model-for-MNIST-data
